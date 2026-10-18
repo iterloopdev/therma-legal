@@ -1,0 +1,13 @@
+# Therma's public pages, served by GitHub Pages at
+# https://iterloopdev.github.io/therma-legal/
+# The app links to /privacy and /terms; never rename them.
+title: Therma
+description: Find nearby places with the weather you want.
+lang: en
+baseurl: /therma-legal
+url: https://iterloopdev.github.io
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude:
+  - README.md
